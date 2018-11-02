@@ -10,4 +10,4 @@ Part of Speech Tagger using Hidden Markov Model
 
 
 
-###### Copyright (c) 2018 Udacity, Inc.
+###### Part of the project I did at NLP Nanodegree Udacity, Inc.
